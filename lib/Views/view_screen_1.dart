@@ -50,10 +50,10 @@ class View1 extends StatelessWidget {
 
           // Background widget
           Positioned(
-            top: 50,
-            left: 20,
+            top: 49,
+            left: 19,
             child: Container(
-              padding: const EdgeInsets.all(10), // Add padding to the container
+              padding: const EdgeInsets.all(9), // Add padding to the container
               decoration: BoxDecoration(
                 color: Colors.black,
                 borderRadius: BorderRadius.circular(10), // Rounded corners
