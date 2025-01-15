@@ -56,7 +56,7 @@ class View1 extends StatelessWidget {
               padding: const EdgeInsets.all(9), // Add padding to the container
               decoration: BoxDecoration(
                 color: Colors.black,
-                borderRadius: BorderRadius.circular(10), // Rounded corners
+                borderRadius: BorderRadius.circular(9), // Rounded corners
               ),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
