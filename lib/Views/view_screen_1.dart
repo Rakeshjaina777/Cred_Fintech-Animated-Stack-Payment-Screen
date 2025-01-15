@@ -70,13 +70,13 @@ class View1 extends StatelessWidget {
                     // title.isNotEmpty ? title  : "Nikunj how much do you need?" ,
                     style: TextStyle(
                       color: Colors.white,
-                      fontSize: 18,
+                      fontSize: 16,
                       fontWeight: FontWeight.bold,
                     ),
                   ),
-                  SizedBox(height: 5), // Add spacing between heading and text
+                  SizedBox(height: 4), // Add spacing between heading and text
                   Text(
-                    item.openState.body.subtitle ?? 'No Subtitle',
+                    item.openState.body.subtitle ?? 'No Subtitl',
 
                     // subtitle.isNotEmpty ? subtitle  : "Move the dial and set any amount you need upto ₹50L" ,
                     style: TextStyle(
