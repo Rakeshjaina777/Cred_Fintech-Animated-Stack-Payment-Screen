@@ -241,7 +241,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     : 'No Data',
                 // textAlign: TextAlign.start,
                 style: TextStyle(
-                  fontSize: 14,
+                  fontSize: 15,
                   color: Colors.black,
                 ),
               ),
