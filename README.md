@@ -1,6 +1,6 @@
 # cred_assignment
 
-A new Flutter project implementing a stack view abstraction layer with expanded and collapsed states, designed for dynamic and interactive UI experiences.
+A new Flutter project implementing a stack view abstraction layer with expanded and collapsed states, designed for dynamic and interactive UI experiences integration with Rest Api.
 
 As this is an  Cred assignment, some files have been deleted to prevent copying. If any recruiter wants to run this, please contact me at rakeshjaina777@gmail.com.
 
