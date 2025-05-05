@@ -1,4 +1,4 @@
-# cred_assignment
+# cred
 
 A new Flutter project implementing a stack view abstraction layer with expanded and collapsed states, designed for dynamic and interactive UI experiences integration with Rest Api.
 
